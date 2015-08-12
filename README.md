@@ -3,4 +3,5 @@ WHMCS Language overrides for Quebec French<br />
 This is our changes to the default French language files for WHMCS<br />
 This file can be used in the /lang/overides folder<br />
 <br />
-This is essentially a correction, and conversion of special characters into HTML Charset format.
+This is essentially a correction, and conversion of special characters into HTML Charset format.<br />
+This provided for free, by <a href="https://www.zenithmedia.ca/">Zenith Media Canada</a>
